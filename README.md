@@ -31,15 +31,15 @@ I'm an Artificial Intelligence student at **Aror University**, interested in pro
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,java,py&perline=3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,java,py&perline=3" height="32" /></td>
   </tr>
   <tr>
     <td><b>Web</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js&perline=3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js&perline=3" height="32" /></td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="32" /></td>
   </tr>
 </table>
 
