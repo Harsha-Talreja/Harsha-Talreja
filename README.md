@@ -43,33 +43,6 @@ I'm an Artificial Intelligence student at **Aror University**, interested in pro
   </tr>
 </table>
 
-### Comfort Level
-
-<!-- Edit these bars to match how you honestly feel about each skill -->
-```text
-Python      ████████████░░░░░░░░  60%
-C++         ███████████░░░░░░░░░  55%
-Java        ██████████░░░░░░░░░░  50%
-HTML / CSS  ██████████░░░░░░░░░░  50%
-JavaScript  ████████░░░░░░░░░░░░  40%
-Git/GitHub  ███████░░░░░░░░░░░░░  35%
-```
-
----
-
-## 🗺️ My Roadmap
-
-<!-- Tick a box by changing [ ] to [x] whenever you finish something -->
-- [x] Create my GitHub profile
-- [ ] Push my first project
-- [ ] Upload my C++ / Java practice code
-- [ ] Build a small Python project
-- [ ] Make a simple HTML/CSS/JS web page
-- [ ] Start learning machine learning basics
-- [ ] Commit consistently and build a streak
-
-**🔥 Streak:** just getting started, day one was October 2026.
-
 ---
 
 ## 🌱 Currently Learning
