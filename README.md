@@ -4,10 +4,6 @@
 
 I'm an Artificial Intelligence student at **Aror University** with an interest in programming, software development, and emerging technologies.
 
-I enjoy learning through hands-on work, exploring new technologies, and continuously improving my technical skills. I'm currently focused on strengthening my development fundamentals and gaining practical experience through consistent learning and experimentation.
-
----
-
 ## About Me
 
 - 🎓 Artificial Intelligence student at Aror University
